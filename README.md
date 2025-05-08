@@ -1,7 +1,7 @@
 # Sistema de aluguel de carro 
 Este é um sistema de aluguel de carros desenvolvido em Python, utilizando a biblioteca ttkbootstrap para a interface gráfica e o MySQL para gerenciamento de banco de dados.
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
 Python: Linguagem de programação principal.
 ttkbootstrap: Biblioteca para criar interfaces gráficas modernas e funcionais.
 MySQL: Banco de dados utilizado para armazenar informações sobre os carros, clientes e transações de aluguel.
